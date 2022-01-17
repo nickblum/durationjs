@@ -1,4 +1,4 @@
-# durationjs
+# Duration JS
 A duration selection jQuery plugin 
 
 ### Demo
